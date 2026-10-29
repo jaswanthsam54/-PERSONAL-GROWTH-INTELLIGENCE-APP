@@ -1,0 +1,6 @@
+{
+  "name": "Momentum",
+  "description": "Personal Growth Intelligence System: daily planner, focus timer, distraction log, spaced revision, analytics and insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
